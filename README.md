@@ -2,6 +2,11 @@
 
 This project consists of 2 rcr types: server and client.
 
+### Demo
+
+[![demo](https://asciinema.org/a/snRWY36NazhLtLG5AoIcEy9Jj.svg)](https://asciinema.org/a/snRWY36NazhLtLG5AoIcEy9Jj)
+
+
 ### Quick start
 
 This project has no dependency on any thirdparty libraries.
