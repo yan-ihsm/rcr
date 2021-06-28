@@ -54,3 +54,10 @@ This prject supports these commands:
 * `broadcast <str>`: to send a message to all clients.
 * `url <client id> <url>`: to send a web page size to a specific client.
 * `fib <client id> <n>`: to send a fibonacci's calculation to a specifc client.
+
+### TODO
+
+* Add more unit tests.
+* Add integration tests.
+* Make the client version more usable.
+
